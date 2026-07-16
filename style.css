@@ -285,3 +285,41 @@ transform:scale(1.05);
 text-align:center;
 
 }
+.project{
+    color:white;
+    text-decoration:none;
+    transition:0.3s;
+}
+
+.project:hover{
+    color:#ffffff;
+    transform:translateY(-8px);
+    box-shadow:0 0 25px rgba(255,255,255,.15);
+}
+.project{
+    color:white;
+    text-decoration:none;
+    transition:0.3s;
+}
+
+.project,
+.project:visited{
+    color: white;
+    text-decoration: none;
+}
+
+.project h3{
+    color: white;
+}
+
+.project:hover h3{
+    color: #d9d9d9;
+}
+.project{
+    color: white;
+    text-decoration: none;
+}
+
+.project:hover{
+    color: #ffffff;
+}
